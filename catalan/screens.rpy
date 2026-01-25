@@ -8,11 +8,11 @@ translate catalan strings:
 
     # game/screens.rpy:692
     old "Save"
-    new "Guardar"
+    new "Guarda"
 
     # game/screens.rpy:694
     old "Load"
-    new "Carregar"
+    new "Carrega"
 
     # game/screens.rpy:699
     old "Preferences"
@@ -44,7 +44,7 @@ translate catalan strings:
 
     # game/screens.rpy:735
     old "Quit"
-    new "Marxar"
+    new "Marxa"
 
     # game/screens.rpy:759
     old "{=amatic}{size=75}Created by{/size}{/=amatic}"
@@ -400,7 +400,7 @@ translate catalan strings:
 
     # game/screens.rpy:2013
     old "Continue"
-    new "Continuar"
+    new "Continua"
 
     # game/screens.rpy:2061
     old "New Game"
@@ -416,7 +416,7 @@ translate catalan strings:
 
     # game/screens.rpy:2091
     old "Reset Gallery"
-    new "Buidar la galeria"
+    new "Buida la galeria"
 
     # game/screens.rpy:2091
     old "Are you sure you want to clear your gallery progress? This action cannot be undone."
@@ -773,4 +773,5 @@ translate catalan strings:
     # game/screens.rpy:3705
     old "Menu"
     new ""
+
 
