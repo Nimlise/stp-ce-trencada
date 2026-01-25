@@ -340,7 +340,7 @@ translate catalan turn_and_leave_join_a6dd72dc:
     # voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
     # skeptic "Good. Going back to the cabin is the only way we can get to the bottom of things.\n"
     voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
-    skeptic ""
+    skeptic "Bé. Només si tornem a la cabanya podrem arribar al fons de tot això.\n"
 
 # game/scripts/ch_1/script.rpy:1750
 translate catalan turn_and_leave_join_8d31ed69:
@@ -528,7 +528,7 @@ translate catalan turn_around_1_late_join_2251e673:
 translate catalan turn_around_1_late_join_4ef55a27:
 
     # n "That's strange. It looks like this path also leads to the cabin. How convenient! Everything's back on track again. Maybe the world can still be saved after all.\n"
-    n ""
+    n "Que extrany. Sembla ser que aquest camí també duu a la cabanya. Que convenient! Tot torna a anar com cal. Potser el món encara es pot salvar, després de tot.\n"
 
 # game/scripts/ch_1/script.rpy:1875
 translate catalan turn_around_1_late_join_bb694d89:
@@ -716,7 +716,7 @@ translate catalan turn_around_1_late_join_8c314859:
     # voice "audio/voices/ch1/woods/narrator/script_n_47.flac"
     # n "Your silence is deafening."
     voice "audio/voices/ch1/woods/narrator/script_n_47.flac"
-    n ""
+    n "El teu silenci és ensordidor."
 
 # game/scripts/ch_1/script.rpy:1955
 translate catalan turn_around_1_late_join_36313eeb:
@@ -728,7 +728,7 @@ translate catalan turn_around_1_late_join_36313eeb:
 translate catalan turn_around_1_late_join_3e8bd79c:
 
     # n "But fine. You turn around and trek back down the path you came."
-    n ""
+    n "Però bé. Et gires i tornes pel camí d'on has vingut"
 
 # game/scripts/ch_1/script.rpy:1977
 translate catalan turn_around_1_late_join_1834b578:
@@ -740,7 +740,7 @@ translate catalan turn_around_1_late_join_1834b578:
 translate catalan turn_around_1_late_join_0ff706df:
 
     # n "Oh, would you look at that! You're at the cabin again! Now, I'm not normally one for superstition or astrology, but I have to say, it seems like the Universe itself is doing its best to bring you to your fated confrontation with the Princess.\n"
-    n ""
+    n "Apa, ves per on! Tornes a ser a la cabanya! Ara, jo no solc ser pas gaire de supersticions o astrologia, però he de dir que sembla que el mateix univers intenti portar-te a la teva inevitable trobada amb la princesa.\n"
 
 # game/scripts/ch_1/script.rpy:1989
 translate catalan turn_around_1_late_join_df38bbea:
@@ -896,7 +896,7 @@ translate catalan turn_around_1_late_join_3147af43:
     # voice "audio/voices/ch1/woods/hero/script_h_2.flac"
     # hero "We can't just go through with this and listen to Him. She's a Princess. We're supposed to save princesses, not slay them.\n"
     voice "audio/voices/ch1/woods/hero/script_h_2.flac"
-    hero ""
+    hero "No podem seguir fent-Li cas. És una princesa. Se suposa que hem de salvar princeses, no donar-los mort!"
 
 # game/scripts/ch_1/script.rpy:2063
 translate catalan turn_around_1_late_join_ee3c948b:
@@ -1024,7 +1024,7 @@ translate catalan cabin_arrival_1_d1fed9fd:
     # voice "audio/voices/ch1/woods/narrator/script_n_64.flac"
     # n "Ignore him. He doesn't know what he's talking about.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_64.flac"
-    n ""
+    n "Ignora'l, que no sap de què parla.\n"
 
 # game/scripts/ch_1/script.rpy:2160
 translate catalan cabin_arrival_1_menu_11fdb519:
@@ -1046,7 +1046,7 @@ translate catalan cabin_interrior_1_d624611a:
     # voice "audio/voices/ch1/woods/narrator/script_n_66.flac"
     # n "The blade is your implement. You'll need it if you want to do this right.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_66.flac"
-    n "La daga és la teva eina. Et caldrà si vols fer-ho bé"
+    n "La daga és la teva eina. Et caldrà si vols fer-ho bé.\n"
 
 # game/scripts/ch_1/script.rpy:2211
 translate catalan cabin_interrior_1_menu_11fdb519:
@@ -1064,7 +1064,7 @@ translate catalan cabin_interrior_1_menu_fe9dea28:
 translate catalan cabin_interrior_1_menu_e4b136d5:
 
     # n "You take the blade from the table. It'd be rather difficult to slay the Princess and save the world without it.\n"
-    n ""
+    n "Prens la daga de la taula. Seria ben dificil donar mort a la princesa i salvar el món sense ella.\n"
 
 translate catalan strings:
 
@@ -1182,23 +1182,23 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:1724
     old "{i}• [[Quietly continue down the path away from the cabin.]{/i}"
-    new "{i}• "
+    new "{i}• [[Sense dir res, continua allunyant-te de la cabanya.]]{/i}"
 
     # game/scripts/ch_1/script.rpy:1877
     old "{i}• Okay, okay! I'm going into the cabin. Sheesh.{/i}"
-    new "{i}• "
+    new "{i}• Molt bé, molt bé! Vaig a la cabanya. Buf!{/i}"
 
     # game/scripts/ch_1/script.rpy:1877
     old "{i}• [[Turn around (again) and leave (again.)]{/i}"
-    new "{i}• "
+    new "{i}• [[Fes mitja volta(un altre cop) i marxa(un altre cop.)]]{/i}"
 
     # game/scripts/ch_1/script.rpy:1933
     old "{i}• I don't care! I'm not killing a princess!{/i}"
-    new "{i}• "
+    new "{i}• Tant m'és! No penso matar una pricesa"
 
     # game/scripts/ch_1/script.rpy:1933
     old "{i}• Good! Maybe everyone {b}should{/b} die! It's what they get for dumping me in the woods and asking me to {b}kill{/b} someone for them.{/i}"
-    new "{i}• Molt bé doncs! Potser sí que tothom {b}hauria de{/b} morir. Ja els està bé, per tirar-me al mig del bosc i demanar-me que els hi {b}mati{/b} algú.{/i}"
+    new "{i}• Molt bé doncs! Potser sí que tothom {b}hauria{/b} de morir. Ja els està bé, per tirar-me al mig del bosc i demanar-me que els {b}mati{/b} algú.{/i}"
 
     # game/scripts/ch_1/script.rpy:1933
     old "{i}• You're not emotionally blackmailing me into doing this!{/i}"
