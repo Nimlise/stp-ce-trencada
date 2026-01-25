@@ -1082,39 +1082,39 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) The end of the world? What are you talking about?{/i}"
-    new "{i}• (Explorar) La fi del món? De que estàs parlant?{/i}"
+    new "{i}• (Explora) La fi del món? De que estàs parlant?{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) But how can a princess locked away in a basement end the world?{/i}"
-    new "{i}• (Explorar) Però com vols que una princesa tancada en un subterrani provoqui la fi del món?{/i}"
+    new "{i}• (Explora) Però com vols que una princesa tancada en un subterrani provoqui la fi del món?{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) If you don't tell me why she's dangerous, I'm not going to kill her.{/i}"
-    new "{i}• (Explorar) Si no em dius perquè és perillosa, no la mataré.{/i}"
+    new "{i}• (Explora) Si no em dius perquè és perillosa, no la mataré.{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Okay. What happens if she gets out then? I want specifics.{/i}"
-    new "{i}• (Explorar) Molt bé. Que passa si surt, doncs? Vull detalls.{/i}"
+    new "{i}• (Explora) Molt bé. Que passa si surt, doncs? Vull detalls.{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Do you have any evidence to back this up?{/i}"
-    new "{i}• (Explorar) Tens alguna manera de demostrar-ho?{/i}"
+    new "{i}• (Explora) Tens alguna manera de demostrar-ho?{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Have you considered that maybe the only reason she's going to end the world is {b}because{/b} she's locked up?{/i}"
-    new "{i}• (Explorar) Has tingut en compte que potser l'únic motiu pel qual pravocarà la fi del món és {b}perquè{/b} està tancada?{/i}"
+    new "{i}• (Explora) Has tingut en compte que potser l'únic motiu pel qual pravocarà la fi del món és {b}perquè{/b} està tancada?{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Killing a princess seems kind of bad, though, doesn't it?{/i}"
-    new "{i}• (Explorar) Matar una princesa sona bastant malament, però, oi?"
+    new "{i}• (Explora) Matar una princesa sona bastant malament, però, oi?"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Can't someone else do this?{/i}"
-    new "{i}• (Explorar) No ho pot fer algú altre, aixó?{/i}"
+    new "{i}• (Explora) No ho pot fer algú altre, aixó?{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Forget it, I'm not doing this.{/i}"
-    new "{i}• (Explorar) Ja te'n pots oblidar, jo aixó no ho faig.{/i}"
+    new "{i}• (Explora) Ja te'n pots oblidar, jo aixó no ho faig.{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Have you considered that maybe I'm okay with the world ending?{/i}"
@@ -1122,11 +1122,11 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Do I get some sort of reward for doing this?{/i}"
-    new "{i}• (Explorar) Tindré alguna mena de recompensa per fer-ho?{/i}"
+    new "{i}• (Explora) Tindré alguna mena de recompensa per fer-ho?{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• (Explore) Can you tell me what my prize is going to be for doing a good job?{/i}"
-    new "{i}• (Explorar) No em pots dir quin és el meu premi per fer una bona feina?{/i}"
+    new "{i}• (Explora) No em pots dir quin és el meu premi per fer una bona feina?{/i}"
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• Look, I'll go to the cabin and I'll talk to her, and if she's as bad as you say she is then {b}maybe{/b} I'll slay her. But I'm not committing to anything until I've had the chance to meet her face to face.{/i}"
@@ -1150,7 +1150,7 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:1586
     old "{i}• [[Silently continue to the cabin.]{/i}"
-    new "{i}• [[Caminar sense dir res envers la cabanya.]{/i}"
+    new "{i}• [[Camina sense dir res envers la cabanya.]{/i}"
 
     # game/scripts/ch_1/script.rpy:1724
     old "{i}• Okay, fine. You're persistent. I'll go to the cabin and I'll slay the Princess. Ugh!{/i}"
@@ -1218,9 +1218,9 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:2210
     old "{i}• (Explore) [[Take the blade.]{/i}"
-    new "{i}• (Explorar) [[Prendre la daga]"
+    new "{i}• (Explorar) [[Prend la daga]"
 
     # game/scripts/ch_1/script.rpy:2210
     old "{i}• [[Enter the basement.]{/i}"
-    new "{i}• [[Entrar al subterrani]"
+    new "{i}• [[Entra al subterrani]"
 
