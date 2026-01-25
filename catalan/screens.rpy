@@ -8,7 +8,7 @@ translate catalan strings:
 
     # game/screens.rpy:692
     old "Save"
-    new "Guarda"
+    new "Desa"
 
     # game/screens.rpy:694
     old "Load"
@@ -773,5 +773,6 @@ translate catalan strings:
     # game/screens.rpy:3705
     old "Menu"
     new ""
+
 
 
