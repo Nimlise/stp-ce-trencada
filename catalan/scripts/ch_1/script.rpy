@@ -1008,7 +1008,7 @@ translate catalan cabin_arrival_1_a9178abd:
     # voice "audio/voices/ch1/woods/narrator/script_n_62.flac"
     # n "She will lie, she will cheat, and she will do everything in her power to stop you from slaying her. Don't believe a word she says.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_62.flac"
-    n "Et mentirà, t'enganyarà, i farà tot el que pugui per tal d'evitar que li donguis mort'. No t'en creguis ni una paraula.\"
+    n "Et mentirà, t'enganyarà, i farà tot el que pugui per tal d'evitar que li donguis mort'. No t'en creguis ni una paraula.\n"
 
 # game/scripts/ch_1/script.rpy:2154
 translate catalan cabin_arrival_1_e1fbe5d3:
