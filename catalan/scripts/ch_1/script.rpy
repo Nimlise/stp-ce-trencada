@@ -1154,7 +1154,7 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:1724
     old "{i}• Okay, fine. You're persistent. I'll go to the cabin and I'll slay the Princess. Ugh!{/i}"
-    new "{i}• Molt bé, d'acord. Ets persistent. Aniré a la cabanya i donaré mort a la princesa. Uf!{/i}
+    new "{i}• Molt bé, d'acord. Ets persistent. Aniré a la cabanya i donaré mort a la princesa. Uf!{/i}"
 
     # game/scripts/ch_1/script.rpy:1724
     old "{i}• Okay, fine. I'll go to the cabin and I'll talk to the Princess. Maybe I'll slay her. Maybe I won't. I guess we'll see.{/i}"
