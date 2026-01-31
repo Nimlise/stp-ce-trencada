@@ -424,7 +424,7 @@ translate catalan strings:
 
     # game/screens.rpy:2103
     old "Join Our Discord"
-    new "Unir-se al Nostre Discord"
+    new "Unieix-te al Nostre Discord"
 
     # game/screens.rpy:2543
     old "Return"
@@ -492,7 +492,7 @@ translate catalan strings:
 
     # game/screens.rpy:2809
     old "Skip"
-    new "Saltar"
+    new "Salta"
 
     # game/screens.rpy:2810
     old "Unseen Text"
@@ -773,6 +773,7 @@ translate catalan strings:
     # game/screens.rpy:3705
     old "Menu"
     new ""
+
 
 
 
