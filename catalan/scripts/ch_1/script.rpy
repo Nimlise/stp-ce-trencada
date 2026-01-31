@@ -692,7 +692,7 @@ translate catalan turn_around_1_late_join_f1b5c1c9:
     # voice "audio/voices/ch1/woods/narrator/script_n_44.flac"
     # n "When I said everyone, I meant {i}everyone{/i}. That's a pretty large group to just condemn to death over a single Princess.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_44.flac"
-    n ""
+    n "Quan dic tothom, vull dir {i}tothom[/i]. Una quantitat prou gran de gent a condemnar a mort per una sola princesa.\n"
 
 # game/scripts/ch_1/script.rpy:1943
 translate catalan turn_around_1_late_join_00ed4889:
@@ -1000,7 +1000,7 @@ translate catalan cabin_arrival_1_d62ffc3a:
     # voice "audio/voices/ch1/woods/narrator/script_n_61.flac"
     # n "A warning, before you go any further...\n"
     voice "audio/voices/ch1/woods/narrator/script_n_61.flac"
-    n "Un avís, abans d'entrar'..."
+    n "Un avís, abans d'entrar...\n"
 
 # game/scripts/ch_1/script.rpy:2149
 translate catalan cabin_arrival_1_a9178abd:
@@ -1008,7 +1008,7 @@ translate catalan cabin_arrival_1_a9178abd:
     # voice "audio/voices/ch1/woods/narrator/script_n_62.flac"
     # n "She will lie, she will cheat, and she will do everything in her power to stop you from slaying her. Don't believe a word she says.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_62.flac"
-    n "Et mentirà, t'enganyarà, i farà tot el que pugui per tal d'evitar que li donguis mort'. No t'en creguis una paraula"
+    n "Et mentirà, t'enganyarà, i farà tot el que pugui per tal d'evitar que li donguis mort'. No t'en creguis ni una paraula.\"
 
 # game/scripts/ch_1/script.rpy:2154
 translate catalan cabin_arrival_1_e1fbe5d3:
@@ -1016,7 +1016,7 @@ translate catalan cabin_arrival_1_e1fbe5d3:
     # voice "audio/voices/ch1/woods/hero/script_h_4.flac"
     # hero "We're not going to go through with this, right? She's a princess. We're supposed to save princesses, not slay them.\n"
     voice "audio/voices/ch1/woods/hero/script_h_4.flac"
-    hero ""
+    hero "No ho farem pas de debó, això,oi? És una pricesa. Se suposa que hem de salvar princeses, no donar-los mort"
 
 # game/scripts/ch_1/script.rpy:2156
 translate catalan cabin_arrival_1_d1fed9fd:
@@ -1202,15 +1202,15 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:1933
     old "{i}• You're not emotionally blackmailing me into doing this!{/i}"
-    new "{i}• "
+    new "{i}• No permetré que em fagis xantatge emocional per a obligar-m'hi!{/i}"
 
     # game/scripts/ch_1/script.rpy:1933
     old "{i}• [[Quietly continue down the path.]{/i}"
-    new "{i}• "
+    new "{i}• [[Continua pel camí sense dir res]]{/i}"
 
     # game/scripts/ch_1/script.rpy:2016
     old "{i}• There's no fighting this, is there? I have to go into the cabin, don't I? Fine.{/i}"
-    new "{i}• "
+    new "{i}• No ho puc evitar, oi? He d'anar a la cabanya, no? Bé.{/i}"
 
     # game/scripts/ch_1/script.rpy:2016
     old "{i}• Oh, yeah? Well I guess I start walking in a different direction. Again. In fact, I'm going to just keep trekking through the wilderness until I find a way out of this place.{/i}"
@@ -1218,7 +1218,7 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:2210
     old "{i}• (Explore) [[Take the blade.]{/i}"
-    new "{i}• (Explorar) [[Prend la daga]"
+    new "{i}• (Explorar) [[Pren la daga]{/i}"
 
     # game/scripts/ch_1/script.rpy:2210
     old "{i}• [[Enter the basement.]{/i}"
