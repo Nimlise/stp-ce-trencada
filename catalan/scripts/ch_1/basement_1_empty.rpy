@@ -3390,266 +3390,267 @@ translate catalan strings:
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''Hi!''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''Just checking in on you.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''I'm here to save you!''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• (Lie) ''I'm here to save you!''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''Hey, I think I'm here to slay you?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• Continue down the stairs.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:116
     old "{i}• ''Hold on. Let's talk a bit first...''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:116
     old "{i}• ''I'll see what I can do.'' [[Examine the chains.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''What's your name?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''So is Princess your name?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''I don't know anything about you. For all I know you're locked up down here for a reason.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''I wasn't kidding when I said I was sent here to kill you. You're apparently going to end the world.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''If I'm the first person you've seen in a while, what have you been eating? Or drinking?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''I was sent here to slay you. You're apparently supposed to end the world...''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''What are you going to do if I let you out of here?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• ''I won't kill you, but I can't just set you free. It's too risky. What if I stayed for a while and just kept you company? Maybe then everyone could be happy.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• ''I'm going to keep you locked away down here. At least for a little bit. We can get to know each other better while I decide what to do.'' [[Keep her locked away.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• ''I'm sorry, but I just can't trust you. This doesn't add up, and it isn't worth the risk to take your word over the potential fate of the world.''{/i} [[Retrieve the blade.]"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• [[Go back upstairs to retrieve the blade without saying another word.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• ''I can't believe they've been keeping you down here like this! I'm getting you out of here.'' [[Examine the chains.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• ''Okay, I'm going to get you out of here. Don't make me regret this.'' [[Examine the chains.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:221
     old "{i}• (Deflect) ''What are you going to do if I let you out of here?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:221
     old "{i}• ''I've been told enough.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:221
     old "{i}• ''I was hoping you'd tell me.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:221
     old "{i}• ''No. But I'm sure they have their reasons for keeping that information secret from me.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:221
     old "{i}• ''No. Which is why I don't think you're actually dangerous.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:221
     old "{i}• [[Remain silent.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:285
     old "{i}• ''I still have a few more questions before we leave.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:285
     old "{i}• (Examine the chains) ''I'll see what I can do.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:364
     old "{i}• ''But I don't think you're actually dangerous.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:364
     old "{i}• ''But I wanted to see you for myself. I'm still not sure what to believe.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:364
     old "{i}• ''I'm starting to think it's true. There's something about you that doesn't feel right.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:452
     old "{i}• [[Retrieve the blade.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:452
     old "{i}• ''Okay. Let's get you out of here.'' [[Examine the chains.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:452
     old "{i}• [[Lock her in the basement.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:517
     old "{i}• No, we're sticking to the plan and locking her away.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:517
     old "{i}• Oh that's a relief! I was afraid I'd already committed to not slaying her.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:650
     old "{i}• ''And if there isn't a key... do you have any other ideas?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:650
     old "{i}• ''I'm going to check upstairs. Maybe the key's still lying around somewhere up there. And if not, maybe I can at least find something to break you free.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:691
     old "{i}• (Explore) ''Hey! Let me out of here!''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:691
     old "{i}• (Explore) [[Try the door.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:691
     old "{i}• [[Return to the bottom of the stairs.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:786
     old "{i}• [[Save the Princess.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:839
     old "{i}• [[Approach the locked door.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:871
     old "{i}• [[Warn her.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1042
     old "{i}• [[Resist.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1319
     old "{i}• [[Finish the job.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1319
     old "{i}• [[Run for the stairs and lock her in the basement. Maybe she'll bleed out.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1502
     old "{i}• (Explore) ''I think we got off on the wrong foot. Do you think we can start over?''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1502
     old "{i}• She's lost an arm. I'm locking her down there and letting her bleed out.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1502
     old "{i}• Let's finish this.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1530
     old "{i}• (Lock her away) Tell you what. I'll even stay here for a while to make sure she's dead.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1530
     old "{i}• You're right. Let's finish this.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1581
     old "{i}• ''Threaten me all you want! All it does is ease my guilty conscience.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1581
     old "{i}• ''Whatever you are, you're not a Princess. Go ahead and waste your energy. I'll be waiting for you.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1581
     old "{i}• ''So all of that was just an act, wasn't it? You're not really innocent or harmless. You're not even a princess. You're a {i}monster{/i}.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1581
     old "{i}• ''Bang on the door all you want. It'll only make you bleed out faster.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1581
     old "{i}• Ignore her and go to sleep.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1721
     old "{i}• Investigate the arm.{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1721
     old "{i}• [[Close the door behind you.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1814
     old "{i}• [[Investigate the arm.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1814
     old "{i}• ''Come on out. Let's just get this over with.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1814
     old "{i}• ''I'll wait.''{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1981
     old "{i}• [[Wait.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:1981
     old "{i}• [[Venture into the shadows.]{/i}"
-    new ""
+    new "{i}•{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:2000
     old "{i}• [[Keep waiting.]{/i}"
-    new ""
+    new "{i}•{/i}"
+
 
 
