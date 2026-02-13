@@ -6,7 +6,7 @@ translate catalan basement_1_empty_start_eb3239a8:
     # voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
     # n "The door to the basement creaks open, revealing a staircase faintly illuminated by an unseen light in the room below. This is an oppressive place. The air feels heavy and damp, a hint of rot filtering from the ancient wood. If the Princess really lives here, slaying her is probably doing her a favor.\n"
     voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
-    n ""
+    n "La porta al subterrani s'obre amb un grinyol, deixant veure unes escales iluminades lleugerament per una llum provinent de l'habitació de sota. Aquest és un lloc opressiu. L'aire és pesat i humit, un toc de floridura surtint de la fusta antiga. Si la de debó viu aquí la princesa, donar-li mort gairebé seria com fer-li un favor.\"
 
 # game/scripts/ch_1/basement_1_empty.rpy:13
 translate catalan basement_1_empty_start_5a05b067:
@@ -14,7 +14,7 @@ translate catalan basement_1_empty_start_5a05b067:
     # voice "audio/voices/ch1/empty/narrator/empty_n_1.flac"
     # n "Her voice softly carries up the stairs.\n"
     voice "audio/voices/ch1/empty/narrator/empty_n_1.flac"
-    n ""
+    n "La seva veu puja suaument per les escales.\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:15
 translate catalan basement_1_empty_start_011666d2:
@@ -22,7 +22,7 @@ translate catalan basement_1_empty_start_011666d2:
     # voice "audio/voices/ch1/empty/princess/empty_p_1.flac"
     # p "H-hello? Is someone there?\n"
     voice "audio/voices/ch1/empty/princess/empty_p_1.flac"
-    p ""
+    p "Ho... hola? Que hi ha algú?\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:17
 translate catalan basement_1_empty_start_fc34b81e:
@@ -30,7 +30,7 @@ translate catalan basement_1_empty_start_fc34b81e:
     # voice "audio/voices/ch1/empty/hero/empty_h_1.flac"
     # hero "It's hypnotizing. It's the kind of voice you only have to hear once to remember it for the rest of your life.\n"
     voice "audio/voices/ch1/empty/hero/empty_h_1.flac"
-    hero ""
+    hero "És hipnotitzant. La mena de veu que només cal sentir un sol cop per a recordae-la tota la vida"
 
 # game/scripts/ch_1/basement_1_empty.rpy:19
 translate catalan basement_1_empty_start_9cda2b50:
@@ -38,7 +38,7 @@ translate catalan basement_1_empty_start_9cda2b50:
     # voice "audio/voices/ch1/empty/narrator/empty_n_2.flac"
     # n "Don't let it fool you. It's all part of the manipulation. You're playing a dangerous game by coming here unarmed.\n"
     voice "audio/voices/ch1/empty/narrator/empty_n_2.flac"
-    n ""
+    n "Que no t'enganyi. És tot part de la manipulació. T'estàs arriscant, venint aquí desarmat.\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:27
 translate catalan basement_1_empty_start_11fdb519:
@@ -52,7 +52,7 @@ translate catalan basement_1_empty_start_05cb62fd:
     # voice "audio/voices/ch1/empty/princess/empty_p_2.flac"
     # p "Don't be a stranger. It's been so long since I've had any visitors. Please, come downstairs.\n"
     voice "audio/voices/ch1/empty/princess/empty_p_2.flac"
-    p ""
+    p "Vine cap aquí. Fa tant temps que ningú no em visita... Baixa, sisplau.\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:34
 translate catalan basement_1_empty_start_0faa28bc:
@@ -60,7 +60,7 @@ translate catalan basement_1_empty_start_0faa28bc:
     # voice "audio/voices/ch1/empty/princess/empty_p_3.flac"
     # p "You are? It's been so long since anyone's come down here. I was starting to think they'd forgotten about me.\n"
     voice "audio/voices/ch1/empty/princess/empty_p_3.flac"
-    p ""
+    p "De debó? Fa tant temps que ningú no baixa aquí. Començava a pensar ques'havien oblidat de mi"
 
 # game/scripts/ch_1/basement_1_empty.rpy:39
 translate catalan basement_1_empty_start_d1cc3074:
@@ -68,7 +68,7 @@ translate catalan basement_1_empty_start_d1cc3074:
     # voice "audio/voices/ch1/empty/narrator/empty_n_3.flac"
     # n "How many times do I have to tell you how dangerous letting her out of here would be before it finally sinks in?\n"
     voice "audio/voices/ch1/empty/narrator/empty_n_3.flac"
-    n ""
+    n "Quants cops t'he d'explicar com de perillós seria deixar-la sortir abans no et quedi clar?\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:41
 translate catalan basement_1_empty_start_9cde2888:
@@ -3651,4 +3651,5 @@ translate catalan strings:
     # game/scripts/ch_1/basement_1_empty.rpy:2000
     old "{i}• [[Keep waiting.]{/i}"
     new ""
+
 
