@@ -300,7 +300,7 @@ translate catalan turn_and_leave_join_2de6e064:
     # voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
     # stubborn "Oh, about {i}time{/i}. I can't believe you were about to run away.\n"
     voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
-    stubborn "Oh, ja era {i}hora/i}. No em puc creure que estiguessis a punt de fugir.\n"
+    stubborn "Oh, ja era {i}hora{/i}. No em puc creure que estiguessis a punt de fugir.\n"
 
 # game/scripts/ch_1/script.rpy:1736
 translate catalan turn_and_leave_join_ca09700d:
@@ -348,7 +348,7 @@ translate catalan turn_and_leave_join_8d31ed69:
     # voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
     # flinching "No, no, {i}no{/i} what are you doing, we were so close to getting out of here!\n"
     voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
-    flinching ""
+    flinching "No, no, {i}no{/i}, què fas? Estàvem a punt d'escapar!\n"
 
 # game/scripts/ch_1/script.rpy:1753
 translate catalan turn_and_leave_join_07076700:
@@ -356,7 +356,7 @@ translate catalan turn_and_leave_join_07076700:
     # voice "audio/voices/ch1/voices/ch1_cold_1.flac"
     # cold "Oh well, cabin it is.\n"
     voice "audio/voices/ch1/voices/ch1_cold_1.flac"
-    cold ""
+    cold "Qué hi farem. Cap a la cabanya.\n"
 
 # game/scripts/ch_1/script.rpy:1756
 translate catalan turn_and_leave_join_96d10566:
@@ -364,7 +364,7 @@ translate catalan turn_and_leave_join_96d10566:
     # voice "audio/voices/ch1/voices/ch1_opportunist_1.flac"
     # opportunist "This is probably for the best.\n"
     voice "audio/voices/ch1/voices/ch1_opportunist_1.flac"
-    opportunist ""
+    opportunist "Segur que això és el millor.\n"
 
 # game/scripts/ch_1/script.rpy:1759
 translate catalan turn_and_leave_join_329e30b8:
@@ -372,7 +372,7 @@ translate catalan turn_and_leave_join_329e30b8:
     # voice "audio/voices/ch1/voices/ch1_broken_1.flac"
     # broken "So much for getting out of here...\n"
     voice "audio/voices/ch1/voices/ch1_broken_1.flac"
-    broken ""
+    broken "A fer punyetes la nostra escapatòria...\n"
 
 # game/scripts/ch_1/script.rpy:1766
 translate catalan turn_and_leave_join_fd85d7e7:
@@ -380,7 +380,7 @@ translate catalan turn_and_leave_join_fd85d7e7:
     # voice "audio/voices/ch1/woods/narrator/script_n_30.flac"
     # n "I guess we will.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_30.flac"
-    n ""
+    n "Suposo que sí.\n"
 
 # game/scripts/ch_1/script.rpy:1771
 translate catalan turn_and_leave_join_2de6e064_1:
@@ -388,7 +388,7 @@ translate catalan turn_and_leave_join_2de6e064_1:
     # voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
     # stubborn "Oh, about {i}time{/i}. I can't believe you were about to run away.\n"
     voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
-    stubborn ""
+    stubborn "Oh, ja era {i}hora{/i}. No em puc creure que estiguessis a punt de fugir.\n"
 
 # game/scripts/ch_1/script.rpy:1774
 translate catalan turn_and_leave_join_ca09700d_1:
@@ -396,7 +396,7 @@ translate catalan turn_and_leave_join_ca09700d_1:
     # voice "audio/voices/ch1/voices/ch1_hunted_1.flac"
     # hunted "If this is what you think is best, I'll keep my ears pricked. Hopefully she won't catch us off-guard as easily as she did last time...\n"
     voice "audio/voices/ch1/voices/ch1_hunted_1.flac"
-    hunted ""
+    hunted "Si creus que això és el millor, pararé bé l'orella. Amb una mica de sort, no ens enxamparà amb la guàrdia baixa com l'altra vegada...\n"
 
 # game/scripts/ch_1/script.rpy:1777
 translate catalan turn_and_leave_join_e152ad71:
@@ -404,7 +404,7 @@ translate catalan turn_and_leave_join_e152ad71:
     # voice "audio/voices/ch1/voices/ch1_smitten_2.flac"
     # smitten "You're joking, right? If we're going to the cabin, there's no world where we do anything other than {i}save{/i} her.\n"
     voice "audio/voices/ch1/voices/ch1_smitten_2.flac"
-    smitten ""
+    smitten "Estàs de broma, no? Si anem a la cabanya, no et pensis que farem altra cosa a part de {i}salvar-la{/i}.\n"
 
 # game/scripts/ch_1/script.rpy:1780
 translate catalan turn_and_leave_join_bfe01128_1:
@@ -412,7 +412,7 @@ translate catalan turn_and_leave_join_bfe01128_1:
     # voice "audio/voices/ch1/voices/ch1_paranoid_1.flac"
     # paranoid "One little trick was all it took for you to go in there?\n"
     voice "audio/voices/ch1/voices/ch1_paranoid_1.flac"
-    paranoid ""
+    paranoid "Un petit truc és el que t'ha costat per entrar-hi?\n"
 
 # game/scripts/ch_1/script.rpy:1782
 translate catalan turn_and_leave_join_be7f86ee_1:
@@ -420,7 +420,7 @@ translate catalan turn_and_leave_join_be7f86ee_1:
     # voice "audio/voices/ch1/voices/ch1_paranoid_2.flac"
     # paranoid "{i}Sigh{/i}. I guess you're the one in control aren't you? So if you want us to die again, I guess we'll die again. Good luck. To all of us.\n"
     voice "audio/voices/ch1/voices/ch1_paranoid_2.flac"
-    paranoid ""
+    paranoid "{i}Aix{/i}. Ja veig que tu ets qui té el control, oi? Si vols que morim un altre cop, així serà. Bona sort. Per a tots nosaltres.\n"
 
 # game/scripts/ch_1/script.rpy:1785
 translate catalan turn_and_leave_join_a6dd72dc_1:
@@ -428,7 +428,7 @@ translate catalan turn_and_leave_join_a6dd72dc_1:
     # voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
     # skeptic "Good. Going back to the cabin is the only way we can get to the bottom of things.\n"
     voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
-    skeptic ""
+    skeptic "Bé. Només si tornem a la cabanya podrem arribar al fons de tot això.\n"
 
 # game/scripts/ch_1/script.rpy:1788
 translate catalan turn_and_leave_join_8d31ed69_1:
@@ -436,7 +436,7 @@ translate catalan turn_and_leave_join_8d31ed69_1:
     # voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
     # flinching "No, no, {i}no{/i} what are you doing, we were so close to getting out of here!\n"
     voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
-    flinching ""
+    flinching "No, no, {i}no{/i}, què fas? Estàvem a punt d'escapar!\n"
 
 # game/scripts/ch_1/script.rpy:1791
 translate catalan turn_and_leave_join_07076700_1:
@@ -444,7 +444,7 @@ translate catalan turn_and_leave_join_07076700_1:
     # voice "audio/voices/ch1/voices/ch1_cold_1.flac"
     # cold "Oh well, cabin it is.\n"
     voice "audio/voices/ch1/voices/ch1_cold_1.flac"
-    cold ""
+    cold "Qué hi farem. Cap a la cabanya.\n"
 
 # game/scripts/ch_1/script.rpy:1794
 translate catalan turn_and_leave_join_96d10566_1:
@@ -452,7 +452,7 @@ translate catalan turn_and_leave_join_96d10566_1:
     # voice "audio/voices/ch1/voices/ch1_opportunist_1.flac"
     # opportunist "This is probably for the best.\n"
     voice "audio/voices/ch1/voices/ch1_opportunist_1.flac"
-    opportunist ""
+    opportunist "Segur que això és el millor.\n"
 
 # game/scripts/ch_1/script.rpy:1797
 translate catalan turn_and_leave_join_329e30b8_1:
@@ -460,7 +460,7 @@ translate catalan turn_and_leave_join_329e30b8_1:
     # voice "audio/voices/ch1/voices/ch1_broken_1.flac"
     # broken "So much for getting out of here...\n"
     voice "audio/voices/ch1/voices/ch1_broken_1.flac"
-    broken ""
+    broken "A fer punyetes la nostra escapatòria...\n"
 
 # game/scripts/ch_1/script.rpy:1803
 translate catalan turn_and_leave_join_332eb02a:
@@ -468,7 +468,7 @@ translate catalan turn_and_leave_join_332eb02a:
     # voice "audio/voices/ch1/woods/narrator/script_n_31.flac"
     # n "Somehow I doubt that, but fine.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_31.flac"
-    n ""
+    n "Ho dubto molt, això, però està bé.\n""
 
 # game/scripts/ch_1/script.rpy:1806
 translate catalan turn_and_leave_join_0a43c12c:
@@ -480,7 +480,7 @@ translate catalan turn_and_leave_join_0a43c12c:
 translate catalan turn_and_leave_join_f99a5817:
 
     # n "I suppose you just quietly continue down the path away from the cabin.\n"
-    n ""
+    n "Suposo que camines en direcció contrària a la cabanya sense dir ni piu.\n"
 
 # game/scripts/ch_1/script.rpy:1829
 translate catalan forest_1_nihilism_walk_28e09db8:
@@ -488,7 +488,7 @@ translate catalan forest_1_nihilism_walk_28e09db8:
     # voice "audio/voices/ch1/woods/narrator/script_n_33.flac"
     # n "There won't {i}be{/i} a 'new dawn' if the world ends. There'll just be {i}nothing{/i}. Forever!\n"
     voice "audio/voices/ch1/woods/narrator/script_n_33.flac"
-    n ""
+    n "No {i}veuràs{/i} el dia de demà si el món s'acaba. No veuràs {i}res{/i}. Mai més!\n"
 
 # game/scripts/ch_1/script.rpy:1839
 translate catalan turn_around_1_76c930e4:
@@ -500,7 +500,7 @@ translate catalan turn_around_1_76c930e4:
 translate catalan turn_around_1_5b1b23d5:
 
     # n "Fine, I suppose you just quietly continue down the path away from the cabin.\n"
-    n ""
+    n "Està bé, suposo que camines en direcció contrària a la cabanya sense dir ni piu.\n"
 
 # game/scripts/ch_1/script.rpy:1852
 translate catalan turn_around_1_late_join_4a643107:
@@ -508,7 +508,7 @@ translate catalan turn_around_1_late_join_4a643107:
     # voice "audio/voices/ch1/woods/hero/script_h_1.flac"
     # hero "Good. What we're being asked to do here is {i}wrong{/i}. Better to wash our hands of this whole situation than to take part in it.\n"
     voice "audio/voices/ch1/woods/hero/script_h_1.flac"
-    hero ""
+    hero "Molt bé. El que ens demanen que féssim és {i}immoral{/i}. Millor oblidar-se'n de tot aquest assumpte que participar-hi.\n"
 
 # game/scripts/ch_1/script.rpy:1854
 translate catalan turn_around_1_late_join_aeb768f7:
@@ -516,7 +516,7 @@ translate catalan turn_around_1_late_join_aeb768f7:
     # voice "audio/voices/ch1/woods/narrator/script_n_35.flac"
     # n "Ignore that annoying little voice. He doesn't know what he's talking about.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_35.flac"
-    n ""
+    n "Ignora aquesta veueta dels dimonis. No sap del què parla.\n"
 
 # game/scripts/ch_1/script.rpy:1860
 translate catalan turn_around_1_late_join_2251e673:
@@ -528,7 +528,7 @@ translate catalan turn_around_1_late_join_2251e673:
 translate catalan turn_around_1_late_join_4ef55a27:
 
     # n "That's strange. It looks like this path also leads to the cabin. How convenient! Everything's back on track again. Maybe the world can still be saved after all.\n"
-    n "Que extrany. Sembla ser que aquest camí també duu a la cabanya. Que convenient! Tot torna a anar com cal. Potser el món encara es pot salvar, després de tot.\n"
+    n "Que extrany. Sembla ser que aquest camí també duu a la cabanya. Què convenient! Tot torna a anar com cal. Potser el món encara es pot salvar, després de tot.\n"
 
 # game/scripts/ch_1/script.rpy:1875
 translate catalan turn_around_1_late_join_bb694d89:
@@ -536,7 +536,7 @@ translate catalan turn_around_1_late_join_bb694d89:
     # voice "audio/voices/ch1/voices/ch1_cold_2.flac"
     # cold "Oh? How quaint. He really wants us to go in there, doesn't he?\n"
     voice "audio/voices/ch1/voices/ch1_cold_2.flac"
-    cold ""
+    cold "Oh? És ben curiós. Insisteix molt en que hi anéssim, no?\n"
 
 # game/scripts/ch_1/script.rpy:1878
 translate catalan turn_around_1_late_join_11fdb519:
@@ -558,7 +558,7 @@ translate catalan turn_around_1_late_join_2de6e064:
     # voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
     # stubborn "Oh, about {i}time{/i}. I can't believe you were about to run away.\n"
     voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
-    stubborn ""
+    stubborn "Oh, ja era {i}hora{/i}. No em puc creure que estiguessis a punt de fugir.\n"
 
 # game/scripts/ch_1/script.rpy:1889
 translate catalan turn_around_1_late_join_ca09700d:
@@ -566,7 +566,7 @@ translate catalan turn_around_1_late_join_ca09700d:
     # voice "audio/voices/ch1/voices/ch1_hunted_1.flac"
     # hunted "If this is what you think is best, I'll keep my ears pricked. Hopefully she won't catch us off-guard as easily as she did last time...\n"
     voice "audio/voices/ch1/voices/ch1_hunted_1.flac"
-    hunted ""
+    hunted "Si creus que això és el millor, pararé bé l'orella. Amb una mica de sort, no ens enxamparà amb la guàrdia baixa com l'altra vegada...\n"
 
 # game/scripts/ch_1/script.rpy:1892
 translate catalan turn_around_1_late_join_fd685af1:
@@ -590,7 +590,7 @@ translate catalan turn_around_1_late_join_be7f86ee:
     # voice "audio/voices/ch1/voices/ch1_paranoid_2.flac"
     # paranoid "{i}Sigh{/i}. I guess you're the one in control aren't you? So if you want us to die again, I guess we'll die again. Good luck. To all of us.\n"
     voice "audio/voices/ch1/voices/ch1_paranoid_2.flac"
-    paranoid ""
+    paranoid "{i}Aix{/i}. Ja veig que tu ets qui té el control, oi? Si vols que morim un altre cop, així serà. Bona sort. Per a tots nosaltres.\n"
 
 # game/scripts/ch_1/script.rpy:1900
 translate catalan turn_around_1_late_join_a6dd72dc:
@@ -598,7 +598,7 @@ translate catalan turn_around_1_late_join_a6dd72dc:
     # voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
     # skeptic "Good. Going back to the cabin is the only way we can get to the bottom of things.\n"
     voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
-    skeptic ""
+    skeptic "Bé. Només si tornem a la cabanya podrem arribar al fons de tot això.\n"
 
 # game/scripts/ch_1/script.rpy:1903
 translate catalan turn_around_1_late_join_8d31ed69:
@@ -606,7 +606,7 @@ translate catalan turn_around_1_late_join_8d31ed69:
     # voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
     # flinching "No, no, {i}no{/i} what are you doing, we were so close to getting out of here!\n"
     voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
-    flinching ""
+    flinching "No, no, {i}no{/i}, què fas? Estàvem a punt d'escapar!\n"
 
 # game/scripts/ch_1/script.rpy:1907
 translate catalan turn_around_1_late_join_07076700:
@@ -614,7 +614,7 @@ translate catalan turn_around_1_late_join_07076700:
     # voice "audio/voices/ch1/voices/ch1_cold_1.flac"
     # cold "Oh well, cabin it is.\n"
     voice "audio/voices/ch1/voices/ch1_cold_1.flac"
-    cold ""
+    cold "Qué hi farem. Cap a la cabanya.\n"
 
 # game/scripts/ch_1/script.rpy:1910
 translate catalan turn_around_1_late_join_96d10566:
@@ -622,7 +622,7 @@ translate catalan turn_around_1_late_join_96d10566:
     # voice "audio/voices/ch1/voices/ch1_opportunist_1.flac"
     # opportunist "This is probably for the best.\n"
     voice "audio/voices/ch1/voices/ch1_opportunist_1.flac"
-    opportunist ""
+    opportunist "Segur que això és el millor.\n"
 
 # game/scripts/ch_1/script.rpy:1913
 translate catalan turn_around_1_late_join_329e30b8:
@@ -630,7 +630,7 @@ translate catalan turn_around_1_late_join_329e30b8:
     # voice "audio/voices/ch1/voices/ch1_broken_1.flac"
     # broken "So much for getting out of here...\n"
     voice "audio/voices/ch1/voices/ch1_broken_1.flac"
-    broken ""
+    broken "A fer punyetes la nostra escapatòria...\n"
 
 # game/scripts/ch_1/script.rpy:1916
 translate catalan turn_around_1_late_join_6c9a9bfa:
@@ -832,7 +832,7 @@ translate catalan turn_around_1_late_join_2de6e064_1:
     # voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
     # stubborn "Oh, about {i}time{/i}. I can't believe you were about to run away.\n"
     voice "audio/voices/ch1/voices/ch1_stubborn_1.flac"
-    stubborn ""
+    stubborn "Oh, ja era {i}hora{/i}. No em puc creure que estiguessis a punt de fugir.\n"
 
 # game/scripts/ch_1/script.rpy:2028
 translate catalan turn_around_1_late_join_ca09700d_1:
@@ -840,7 +840,7 @@ translate catalan turn_around_1_late_join_ca09700d_1:
     # voice "audio/voices/ch1/voices/ch1_hunted_1.flac"
     # hunted "If this is what you think is best, I'll keep my ears pricked. Hopefully she won't catch us off-guard as easily as she did last time...\n"
     voice "audio/voices/ch1/voices/ch1_hunted_1.flac"
-    hunted ""
+    hunted "Si creus que això és el millor, pararé bé l'orella. Amb una mica de sort, no ens enxamparà amb la guàrdia baixa com l'altra vegada...\n"
 
 # game/scripts/ch_1/script.rpy:2031
 translate catalan turn_around_1_late_join_be7f86ee_1:
@@ -848,7 +848,7 @@ translate catalan turn_around_1_late_join_be7f86ee_1:
     # voice "audio/voices/ch1/voices/ch1_paranoid_2.flac"
     # paranoid "{i}Sigh{/i}. I guess you're the one in control aren't you? So if you want us to die again, I guess we'll die again. Good luck. To all of us.\n"
     voice "audio/voices/ch1/voices/ch1_paranoid_2.flac"
-    paranoid ""
+    paranoid "{i}Aix{/i}. Ja veig que tu ets qui té el control, oi? Si vols que morim un altre cop, així serà. Bona sort. Per a tots nosaltres.\n"
 
 # game/scripts/ch_1/script.rpy:2034
 translate catalan turn_around_1_late_join_a6dd72dc_1:
@@ -856,7 +856,7 @@ translate catalan turn_around_1_late_join_a6dd72dc_1:
     # voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
     # skeptic "Good. Going back to the cabin is the only way we can get to the bottom of things.\n"
     voice "audio/voices/ch1/voices/ch1_skeptic_1.flac"
-    skeptic ""
+    skeptic "Bé. Només si tornem a la cabanya podrem arribar al fons de tot això.\n"
 
 # game/scripts/ch_1/script.rpy:2037
 translate catalan turn_around_1_late_join_8d31ed69_1:
@@ -864,7 +864,7 @@ translate catalan turn_around_1_late_join_8d31ed69_1:
     # voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
     # flinching "No, no, {i}no{/i} what are you doing, we were so close to getting out of here!\n"
     voice "audio/voices/ch1/voices/ch1_flinching_1.flac"
-    flinching ""
+    flinching "No, no, {i}no{/i}, què fas? Estàvem a punt d'escapar!\n"
 
 # game/scripts/ch_1/script.rpy:2041
 translate catalan turn_around_1_late_join_07076700_1:
@@ -872,7 +872,7 @@ translate catalan turn_around_1_late_join_07076700_1:
     # voice "audio/voices/ch1/voices/ch1_cold_1.flac"
     # cold "Oh well, cabin it is.\n"
     voice "audio/voices/ch1/voices/ch1_cold_1.flac"
-    cold ""
+    cold "Qué hi farem. Cap a la cabanya.\n"
 
 # game/scripts/ch_1/script.rpy:2044
 translate catalan turn_around_1_late_join_42aa38b2:
@@ -880,7 +880,7 @@ translate catalan turn_around_1_late_join_42aa38b2:
     # voice "audio/voices/ch1/voices/ch1_opportunist_3.flac"
     # opportunist "Eh, this is probably for the best.\n"
     voice "audio/voices/ch1/voices/ch1_opportunist_3.flac"
-    opportunist ""
+    opportunist "Meh, segur que això és el millor.\n"
 
 # game/scripts/ch_1/script.rpy:2047
 translate catalan turn_around_1_late_join_329e30b8_1:
@@ -888,7 +888,7 @@ translate catalan turn_around_1_late_join_329e30b8_1:
     # voice "audio/voices/ch1/voices/ch1_broken_1.flac"
     # broken "So much for getting out of here...\n"
     voice "audio/voices/ch1/voices/ch1_broken_1.flac"
-    broken ""
+    broken "A fer punyetes la nostra escapatòria...\n"
 
 # game/scripts/ch_1/script.rpy:2050
 translate catalan turn_around_1_late_join_3147af43:
