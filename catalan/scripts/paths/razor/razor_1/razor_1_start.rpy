@@ -6,7 +6,7 @@ translate catalan razor_1_start_38fbd5e1:
     # voice "audio/voices/ch1/woods/narrator/script_n_1.flac"
     # n "You're on a path in the woods. And at the end of that path is a cabin. And in the basement of that cabin is a Princess.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_1.flac"
-    n ""
+    n "Ets en un camí dins el bosc. Al final del camí, hi ha una cabanya. I en el seu subterrani, una princesa.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:29
 translate catalan razor_1_start_f7d7f625:
@@ -14,7 +14,7 @@ translate catalan razor_1_start_f7d7f625:
     # voice "audio/voices/ch1/woods/narrator/script_n_2.flac"
     # n "You're here to slay her.\n If you don't, it will be the end of the world.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_2.flac"
-    n ""
+    n "Ets aquí per donar-li mort. Si no ho fas, serà la fi del món.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:40
 translate catalan razor_1_forest_11fdb519:
@@ -28,7 +28,7 @@ translate catalan razor_1_forest_c6cf744b:
     # voice "audio/voices/ch2/shared/narrator/ch2_share_n_1a.flac"
     # n "A terrible sense of deja vu? No, you don't have that. This is the first time either of us have been here.\n"
     voice "audio/voices/ch2/shared/narrator/ch2_share_n_1a.flac"
-    n ""
+    n "Una horrible sensació de deja vu? No, no pot ser. És la primera vegada que estem aquí, nosaltres dos.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:49
 translate catalan razor_1_forest_narrator_share_join_cead0e51:
@@ -60,7 +60,7 @@ translate catalan razor_1_forest_narrator_share_join_3f557fa6:
     # voice "audio/voices/ch2/razor/cheated/2.flac"
     # cheated "Yeah, that's exactly what you told us last time. You said this whole thing would be easy, but after we sank our blade into her heart she just got up and started stabbing us.\n"
     voice "audio/voices/ch2/razor/cheated/2.flac"
-    cheated ""
+    cheated "Ui, sí, tal i com vas dir l'últim cop. Que tot això seria fàcil, però a la que vam clavar-li la daga al cor es va aixecar i es va posar a apunyalar-nos.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:59
 translate catalan razor_1_forest_narrator_share_join_63b491ec:
@@ -68,7 +68,7 @@ translate catalan razor_1_forest_narrator_share_join_63b491ec:
     # voice "audio/voices/ch2/razor/cheated/3.flac"
     # cheated "Yeah, that's exactly what you told us last time. When we asked you if you were sure she didn't have a weapon on her, you said you were 'positive' she didn't.\n"
     voice "audio/voices/ch2/razor/cheated/3.flac"
-    cheated ""
+    cheated "Ui, sí, tal i com vas dir l'últim cop. Que no tenia cap arma, deies, quan t'ho vam preguntar, que n'estaves 'del tot segur'.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:61
 translate catalan razor_1_forest_narrator_share_join_8e4dd3e7:
@@ -910,9 +910,10 @@ translate catalan strings:
 
     # game/scripts/paths/razor/razor_1/razor_1_start.rpy:7
     old "{color=#FFFFFF00}Chapter Two. The Razor.{/color}"
-    new ""
+    new "{color=#FFFFFF00}Capítol Dos. La fulla.{/color}"
 
     # game/scripts/paths/razor/razor_1/razor_1_start.rpy:173
     old "{i}• (Explore) All she did last time around was stab me to death. How can someone like that end the world?{/i}"
     new ""
+
 
