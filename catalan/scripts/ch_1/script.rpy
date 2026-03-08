@@ -528,7 +528,7 @@ translate catalan turn_around_1_late_join_2251e673:
 translate catalan turn_around_1_late_join_4ef55a27:
 
     # n "That's strange. It looks like this path also leads to the cabin. How convenient! Everything's back on track again. Maybe the world can still be saved after all.\n"
-    n "Que extrany. Sembla ser que aquest camí també duu a la cabanya. Què convenient! Tot torna a anar com cal. Potser el món encara es pot salvar, després de tot.\n"
+    n "Que extrany. Sembla ser que aquest camí també duu a la cabanya. Que convenient! Tot torna a anar com cal. Potser el món encara es pot salvar, després de tot.\n"
 
 # game/scripts/ch_1/script.rpy:1875
 translate catalan turn_around_1_late_join_bb694d89:
