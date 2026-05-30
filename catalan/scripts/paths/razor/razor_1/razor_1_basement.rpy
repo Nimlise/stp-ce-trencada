@@ -186,7 +186,7 @@ translate catalan razor_1_basement_menu_ca41f5dc:
 translate catalan razor_1_basement_menu_121aafd6:
 
     # sp "Okay, I'm bored now.\n"
-    sp ""
+    sp "Molt bé, ja m'he aburrit.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:74
 translate catalan razor_1_basement_menu_9b259364:
@@ -1040,7 +1040,7 @@ translate catalan razor_1_end_f2d56f6a:
 translate catalan razor_1_end_bff88830:
 
     # sp "I'm going to kill you now.\n"
-    sp ""
+    sp "Ara et mataré.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:562
 translate catalan razor_1_end_c113500b:
@@ -1064,7 +1064,7 @@ translate catalan razor_1_end_90488c60:
 translate catalan razor_1_end_60efe4c0:
 
     # n "Everything goes dark, and you die.\n"
-    n ""
+    n "Tot es torna fosc, i mors.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:586
 translate catalan razor_1_approach_0c4bb376:
@@ -1100,7 +1100,7 @@ translate catalan razor_1_approach_3e4409a7:
 translate catalan razor_1_approach_63b341fb:
 
     # n "You hear the horrible sound of metal slicing through meat.\n"
-    n ""
+    n "Sents l'horrible so d'una fulla de metall atravessant carn.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:605
 translate catalan razor_1_approach_893652da:
@@ -1108,7 +1108,7 @@ translate catalan razor_1_approach_893652da:
     # voice "audio/voices/ch2/razor/basement/hero/18.flac"
     # hero "... Whose meat? Not ours, right?\n"
     voice "audio/voices/ch2/razor/basement/hero/18.flac"
-    hero ""
+    hero "...la carn de qui? No pas la nostra, oi?\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:607
 translate catalan razor_1_approach_1bb422cd:
@@ -1116,7 +1116,7 @@ translate catalan razor_1_approach_1bb422cd:
     # voice "audio/voices/ch2/razor/basement/narrator/35.flac"
     # n "Hers at first.\n"
     voice "audio/voices/ch2/razor/basement/narrator/35.flac"
-    n ""
+    n "La d'ella, al principi.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:609
 translate catalan razor_1_approach_a8d4d1fe:
@@ -1124,7 +1124,7 @@ translate catalan razor_1_approach_a8d4d1fe:
     # voice "audio/voices/ch2/razor/basement/narrator/36.flac"
     # n "Then yours. Your neck, specifically.\n"
     voice "audio/voices/ch2/razor/basement/narrator/36.flac"
-    n ""
+    n "Llavors la teva. El teu coll, específicament.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:612
 translate catalan razor_1_approach_aa476ea8:
@@ -1174,7 +1174,7 @@ translate catalan razor_1_approach_4ada2cda:
 translate catalan razor_1_approach_1803e7e9:
 
     # sp "You're going to die now.\n"
-    sp ""
+    sp "Ara moriràs.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:645
 translate catalan razor_1_approach_eb5d119b:
@@ -1360,7 +1360,7 @@ translate catalan strings:
 
     # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:111
     old "{i}• (Explore) ''Prove it then. Prove that you don't have a knife.''{/i}"
-    new ""
+    new "{i}• (Explora) ''Demostra-ho, doncs. Demostra que no tens un ganivet.''{/i}"
 
     # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:111
     old "{i}• (Explore) ''But what if you're just hiding it somewhere secret?''{/i}"
@@ -1436,13 +1436,13 @@ translate catalan strings:
 
     # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:111
     old "{i}• ''Yeah. I'm not trusting this. Bye!'' [[Turn and leave.]{/i}"
-    new ""
+    new "{i}• ''Ja, d'aixó jo no me'n fio. Adeu!'' [[Gira't i marxa.]{/i}"
 
     # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:111
     old "{i}• ''I'll be right back. I left something upstairs.'' [[Go retrieve the knife upstairs.]{/i}"
-    new ""
+    new "{i}•"
 
     # game/scripts/paths/razor/razor_1/razor_1_basement.rpy:111
     old "{i}• ''Screw it.'' [[Slay the Princess.]{/i}"
-    new ""
+    new "{i}• ''A la merda'' [[Dona mort a la princesa]{/i}"
 
