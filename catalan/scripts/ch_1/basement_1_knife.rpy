@@ -6,7 +6,7 @@ translate catalan basement_1_knife_start_eb3239a8:
     # voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
     # n "The door to the basement creaks open, revealing a staircase faintly illuminated by an unseen light in the room below. This is an oppressive place. The air feels heavy and damp, a hint of rot filtering from the ancient wood. If the Princess really lives here, slaying her is probably doing her a favor.\n"
     voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
-    n ""
+    n "La porta al subterrani s'obre amb un grinyol, deixant veure unes escales iluminades lleugerament per una llum provinent de l'habitació de sota. Aquest és un lloc opressiu. L'aire és pesat i humit, un toc de floridura surtint de la fusta antiga. Si la de debó viu aquí la princesa, donar-li mort gairebé seria com fer-li un favor.\n"
 
 # game/scripts/ch_1/basement_1_knife.rpy:24
 translate catalan basement_1_knife_start_7f74cebf:
@@ -14,7 +14,7 @@ translate catalan basement_1_knife_start_7f74cebf:
     # voice "audio/voices/ch1/knife/narrator/knife_n_0.flac"
     # n "Her voice carries up the stairs.\n"
     voice "audio/voices/ch1/knife/narrator/knife_n_0.flac"
-    n ""
+    n "La seva veu puja per les escales.\n"
 
 # game/scripts/ch_1/basement_1_knife.rpy:27
 translate catalan basement_1_knife_start_7dd2169e:
@@ -30,7 +30,7 @@ translate catalan basement_1_knife_start_40deb979:
     # voice "audio/voices/ch1/knife/hero/k_h_1.flac"
     # hero "She sounds... dangerous... It's almost as if she's the one in charge down here.\n"
     voice "audio/voices/ch1/knife/hero/k_h_1.flac"
-    hero ""
+    hero "Sona... perillosa... Com dient que es ella qui mana allà baix.\n"
 
 # game/scripts/ch_1/basement_1_knife.rpy:32
 translate catalan basement_1_knife_start_c91804a3:
@@ -38,7 +38,7 @@ translate catalan basement_1_knife_start_c91804a3:
     # voice "audio/voices/ch1/knife/narrator/knife_n_1.flac"
     # n "Don't let it fool you. It's all part of the manipulation.\n"
     voice "audio/voices/ch1/knife/narrator/knife_n_1.flac"
-    n ""
+    n "Que no t'enganyi. És tot part de la manipulació"
 
 # game/scripts/ch_1/basement_1_knife.rpy:36
 translate catalan basement_1_knife_start_11fdb519:
