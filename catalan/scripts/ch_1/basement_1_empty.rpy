@@ -6,7 +6,7 @@ translate catalan basement_1_empty_start_eb3239a8:
     # voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
     # n "The door to the basement creaks open, revealing a staircase faintly illuminated by an unseen light in the room below. This is an oppressive place. The air feels heavy and damp, a hint of rot filtering from the ancient wood. If the Princess really lives here, slaying her is probably doing her a favor.\n"
     voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
-    n "La porta al subterrani s'obre amb un grinyol, deixant veure unes escales iluminades lleugerament per una llum provinent de l'habitació de sota. Aquest és un lloc opressiu. L'aire és pesat i humit, un toc de floridura surtint de la fusta antiga. Si la de debó viu aquí la princesa, donar-li mort gairebé seria com fer-li un favor.\"
+    n "La porta al subterrani s'obre amb un grinyol, deixant veure unes escales iluminades lleugerament per una llum provinent de l'habitació de sota. Aquest és un lloc opressiu. L'aire és pesat i humit, un toc de floridura surtint de la fusta antiga. Si la de debó viu aquí la princesa, donar-li mort gairebé seria com fer-li un favor.\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:13
 translate catalan basement_1_empty_start_5a05b067:
@@ -30,7 +30,7 @@ translate catalan basement_1_empty_start_fc34b81e:
     # voice "audio/voices/ch1/empty/hero/empty_h_1.flac"
     # hero "It's hypnotizing. It's the kind of voice you only have to hear once to remember it for the rest of your life.\n"
     voice "audio/voices/ch1/empty/hero/empty_h_1.flac"
-    hero "És hipnotitzant. La mena de veu que només cal sentir un sol cop per a recordae-la tota la vida"
+    hero "És hipnotitzant. La mena de veu que només cal sentir un sol cop per a recordae-la tota la vida.\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:19
 translate catalan basement_1_empty_start_9cda2b50:
@@ -60,7 +60,7 @@ translate catalan basement_1_empty_start_0faa28bc:
     # voice "audio/voices/ch1/empty/princess/empty_p_3.flac"
     # p "You are? It's been so long since anyone's come down here. I was starting to think they'd forgotten about me.\n"
     voice "audio/voices/ch1/empty/princess/empty_p_3.flac"
-    p "De debó? Fa tant temps que ningú no baixa aquí. Començava a pensar ques'havien oblidat de mi"
+    p "De debó? Fa tant temps que ningú no baixa aquí. Començava a pensar que s'havien oblidat de mi.\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:39
 translate catalan basement_1_empty_start_d1cc3074:
