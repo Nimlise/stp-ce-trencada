@@ -76,7 +76,7 @@ translate catalan razor_1_forest_narrator_share_join_8e4dd3e7:
     # voice "audio/voices/ch2/razor/cheated/4.flac"
     # cheated "But it turns out she did. Because when we charged her, she started stabbing us. To {i}death{/i}!\n"
     voice "audio/voices/ch2/razor/cheated/4.flac"
-    cheated ""
+    cheated "Però resulta que sí, que en tenia una. I al atacar-la, es va posar a apunyalar-nos. Fins {i}matar-nos{/i}!\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:63
 translate catalan razor_1_forest_narrator_share_join_23fe6ece:
@@ -828,7 +828,7 @@ translate catalan razor_cabin_1_mirror_join_e5369711:
     # voice "audio/voices/ch2/razor/princess/ch2_rp_1.flac"
     # sp "I hope you've come to rescue me. I've been stuck down here {i}forever{/i}.\n"
     voice "audio/voices/ch2/razor/princess/ch2_rp_1.flac"
-    sp ""
+    sp "Espero que vinguis a rescatar-me. Porto {i}segles{/i} aquí atrapada.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:502
 translate catalan razor_cabin_1_mirror_join_a2e4032a:
@@ -860,7 +860,7 @@ translate catalan razor_cabin_1_mirror_join_2182d534:
     # voice "audio/voices/ch2/razor/hero/ch2_rh_10.flac"
     # hero "I wonder if she remembers us.\n"
     voice "audio/voices/ch2/razor/hero/ch2_rh_10.flac"
-    hero ""
+    hero "Em pregunto si ens recorda.\n"
 
 # game/scripts/paths/razor/razor_1/razor_1_start.rpy:525
 translate catalan razor_cabin_1_mirror_join_d3a64d37:
