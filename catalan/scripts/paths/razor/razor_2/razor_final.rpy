@@ -10,7 +10,7 @@ translate catalan razor_final_start_knife_c18f66d0:
 translate catalan razor_final_start_knife_c7ef0df7:
 
     # n "You're on a—\n{w=0.4}{nw}"
-    n ""
+    n "Ets en un...\n{w=0.4}{nw}"
 
 # game/scripts/paths/razor/razor_2/razor_final.rpy:54
 translate catalan razor_final_start_knife_5a8de408:
@@ -126,7 +126,7 @@ translate catalan razor_final_start_unarmed_c18f66d0:
 translate catalan razor_final_start_unarmed_c7ef0df7:
 
     # n "You're on a—\n{w=0.4}{nw}"
-    n ""
+    n "Ets en un...\n{w=0.4]{nw}"
 
 # game/scripts/paths/razor/razor_2/razor_final.rpy:93
 translate catalan razor_final_start_unarmed_af1891e1:
