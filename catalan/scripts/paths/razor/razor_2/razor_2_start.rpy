@@ -202,7 +202,7 @@ translate catalan razor_2_start_52f0d617:
     # voice "audio/voices/ch3/razor/start/cheated/4.flac"
     # cheated "We take it.\n"
     voice "audio/voices/ch3/razor/start/cheated/4.flac"
-    cheated ""
+    cheated "L'agafem"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:122
 translate catalan razor_2_start_60e1cfc7:
@@ -214,7 +214,7 @@ translate catalan razor_2_start_60e1cfc7:
 translate catalan razor_2_start_f4704d02:
 
     # n "Okay. Sure. You take the blade before letting me finish telling you it's there. It would be difficult to slay the Princess and save the world without a weapon.\n"
-    n ""
+    n "Molt bé. D'acord. Preneu la daga sense ni deixar-me acabar d'explicar que hi és. Seria ben dificil donar mort a la Princesa i salvar el món sense ella.\n"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:127
 translate catalan razor_2_start_1efcbf4b:
@@ -222,7 +222,7 @@ translate catalan razor_2_start_1efcbf4b:
     # voice "audio/voices/ch3/razor/start/contrarian/2.flac"
     # contrarian "And then we throw it out the window!\n"
     voice "audio/voices/ch3/razor/start/contrarian/2.flac"
-    contrarian ""
+    contrarian "I la llancem per la finestra!\n"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:130
 translate catalan razor_2_start_2d60cd2e:
@@ -230,7 +230,7 @@ translate catalan razor_2_start_2d60cd2e:
     # voice "audio/voices/ch3/razor/start/cheated/5.flac"
     # cheated "What?! That blade is the only edge we have, we are not—\n{w=2.7}{nw}"
     voice "audio/voices/ch3/razor/start/cheated/5.flac"
-    cheated ""
+    cheated "Què?! La daga és l'únic avantatge que tenim, de cap ma...\n{w=2.7}{nw}"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:133
 translate catalan razor_2_start_1159db3e:
@@ -238,7 +238,7 @@ translate catalan razor_2_start_1159db3e:
     # voice "audio/voices/ch3/razor/start/contrarian/3.flac"
     # contrarian "Too late! Because we already did it, didn't we?\n"
     voice "audio/voices/ch3/razor/start/contrarian/3.flac"
-    contrarian ""
+    contrarian "Massa tard! Perquè ja ho hem fet, oi que sí?\n"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:135
 translate catalan razor_2_start_f17b5e76:
