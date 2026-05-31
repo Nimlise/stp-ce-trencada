@@ -6,7 +6,7 @@ translate catalan basement_1_empty_start_eb3239a8:
     # voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
     # n "The door to the basement creaks open, revealing a staircase faintly illuminated by an unseen light in the room below. This is an oppressive place. The air feels heavy and damp, a hint of rot filtering from the ancient wood. If the Princess really lives here, slaying her is probably doing her a favor.\n"
     voice "audio/voices/ch1/shared/narrator/ch1_share_n_1.flac"
-    n "La porta al subterrani s'obre amb un grinyol, deixant veure unes escales iluminades lleugerament per una llum provinent de l'habitació de sota. Aquest és un lloc opressiu. L'aire és pesat i humit, un toc de floridura surtint de la fusta antiga. Si la de debó viu aquí la princesa, donar-li mort gairebé seria com fer-li un favor.\n"
+    n "La porta al subterrani s'obre amb un grinyol, deixant veure unes escales iluminades lleugerament per una llum provinent de l'habitació de sota. Aquest és un lloc opressiu. L'aire és pesat i humit, un toc de floridura surtint de la fusta antiga. Si la de debó viu aquí la Princesa, donar-li mort gairebé seria com fer-li un favor.\n"
 
 # game/scripts/ch_1/basement_1_empty.rpy:13
 translate catalan basement_1_empty_start_5a05b067:
@@ -3390,7 +3390,7 @@ translate catalan strings:
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''Hi!''{/i}"
-    new "{i}•{/i}"
+    new "{i}• ''Hola!''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''Just checking in on you.''{/i}"
@@ -3402,11 +3402,11 @@ translate catalan strings:
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• (Lie) ''I'm here to save you!''{/i}"
-    new "{i}•{/i}"
+    new "{i}• (Menteix) ''Vinc a salver-te!''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''Hey, I think I'm here to slay you?''{/i}"
-    new "{i}•{/i}"
+    new "{i}• ''Ei, crec que vinc per donar-te mort?''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• Continue down the stairs.{/i}"
