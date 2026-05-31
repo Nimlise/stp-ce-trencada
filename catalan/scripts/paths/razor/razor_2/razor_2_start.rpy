@@ -6,7 +6,7 @@ translate catalan razor_2_start_5d2faf67:
     # voice "audio/voices/ch3/razor/start/narrator/1.flac"
     # n "You're on a path in the woods—\n{w=1.95}{nw}"
     voice "audio/voices/ch3/razor/start/narrator/1.flac"
-    n ""
+    n "Ets en un camí dins del bosc...\n{w=1.95}{nw}"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:43
 translate catalan razor_2_start_f2de7c27:
@@ -14,7 +14,7 @@ translate catalan razor_2_start_f2de7c27:
     # voice "audio/voices/ch3/razor/start/cheated/1.flac"
     # cheated "No, fuck that! If we're going to have to keep doing this over and over and over again, we're not starting in the goddamn woods every time. We're starting in the fucking cabin.\n"
     voice "audio/voices/ch3/razor/start/cheated/1.flac"
-    cheated ""
+    cheated "No, i una merda! Si hem d'anar fent això una i altra i altra vegada, no comencem al bosc dels collons cada cop. Comencem a la puta cabanya.\n"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:45
 translate catalan razor_2_start_e6a15d6c:
@@ -22,7 +22,7 @@ translate catalan razor_2_start_e6a15d6c:
     # voice "audio/voices/ch3/razor/start/narrator/2.flac"
     # n "You're what?!\n{w=0.75}{nw}"
     voice "audio/voices/ch3/razor/start/narrator/2.flac"
-    n ""
+    n "Qu... què?!\n{w=0.75}{nw}"
 
 # game/scripts/paths/razor/razor_2/razor_2_start.rpy:50
 translate catalan razor_2_start_63890b0c:
