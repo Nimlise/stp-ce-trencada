@@ -490,7 +490,7 @@ translate catalan razor_final_basement_8a05fd2f:
     # voice "audio/voices/ch3/razor/final/hero/4.flac"
     # hero "Holy shit!\n"
     voice "audio/voices/ch3/razor/final/hero/4.flac"
-    hero ""
+    hero "Collons!"
 
 # game/scripts/paths/razor/razor_2/razor_final.rpy:219
 translate catalan razor_final_basement_8f4764d5:
@@ -498,7 +498,7 @@ translate catalan razor_final_basement_8f4764d5:
     # voice "audio/voices/ch3/razor/final/smitten/4.flac"
     # smitten "She's gorgeous! Absolutely divine!\n"
     voice "audio/voices/ch3/razor/final/smitten/4.flac"
-    smitten ""
+    smitten "És preciosa! Absolutament divina!\n"
 
 # game/scripts/paths/razor/razor_2/razor_final.rpy:221
 translate catalan razor_final_basement_beaf4e03:
@@ -506,7 +506,7 @@ translate catalan razor_final_basement_beaf4e03:
     # voice "audio/voices/ch3/razor/final/stubborn/5.flac"
     # stubborn "Yes! Behold, the perfect woman!\n"
     voice "audio/voices/ch3/razor/final/stubborn/5.flac"
-    stubborn ""
+    stubborn "Sí! Vet aquí, la dona perfecta!\n"
 
 # game/scripts/paths/razor/razor_2/razor_final.rpy:223
 translate catalan razor_final_basement_0eddb290:
@@ -514,7 +514,7 @@ translate catalan razor_final_basement_0eddb290:
     # voice "audio/voices/ch3/razor/final/contrarian/3.flac"
     # contrarian "Do you think we can throw {i}her{/i} out the window?\n"
     voice "audio/voices/ch3/razor/final/contrarian/3.flac"
-    contrarian ""
+    contrarian "Creieu que potser la podriem llançar a {i}ella{/i} per la finestra?"
 
 # game/scripts/paths/razor/razor_2/razor_final.rpy:225
 translate catalan razor_final_basement_37e6e4fb:
