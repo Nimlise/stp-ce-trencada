@@ -110,7 +110,7 @@ translate catalan forest_dialogue_35b3e803:
     # voice "audio/voices/ch1/woods/narrator/script_n_9.flac"
     # n "Nevertheless, let me assure you: the Princess is locked up because she's dangerous, she is not dangerous because she's locked up.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_9.flac"
-    n "De totes maneres, deixa'm assegurar-te que la princesa està empresonada perquè és perillosa i no és perillosa perquè està empresonada.\n"
+    n "De totes maneres, deixa'm assegurar-te que la Princesa està empresonada perquè és perillosa i no és perillosa perquè està empresonada.\n"
 
 # game/scripts/ch_1/script.rpy:1627
 translate catalan forest_dialogue_5465960a:
@@ -126,7 +126,7 @@ translate catalan forest_dialogue_5eb28a79:
     # voice "audio/voices/ch1/woods/narrator/script_n_11.flac"
     # n "Causality doesn't matter here, because the end result is the same no matter what led us up to this point. If the Princess leaves the cabin, the world will end, and there is no changing that.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_11.flac"
-    n "La causalitat, aquí, no importa. El resultat final és el mateix sense importar el què ens hagi portat fins a aquest punt. Si la princesa surt de la cabanya, serà la fi del món, i això no es pot canviar.\n"
+    n "La causalitat, aquí, no importa. El resultat final és el mateix sense importar el què ens hagi portat fins a aquest punt. Si la Princesa surt de la cabanya, serà la fi del món, i això no es pot canviar.\n"
 
 # game/scripts/ch_1/script.rpy:1631
 translate catalan forest_dialogue_ebbf890f:
@@ -316,7 +316,7 @@ translate catalan turn_and_leave_join_7805c5e0:
     # voice "audio/voices/ch1/voices/ch1_smitten_1.flac"
     # smitten "Save. You'll go to the cabin and {i}save{/i} the Princess.\n"
     voice "audio/voices/ch1/voices/ch1_smitten_1.flac"
-    smitten "Salvar-la. Aniràs a la cabanya i {i}salvaràs{/i} la princesa.\n"
+    smitten "Salvar-la. Aniràs a la cabanya i {i}salvaràs{/i} la Princesa.\n"
 
 # game/scripts/ch_1/script.rpy:1742
 translate catalan turn_and_leave_join_bfe01128:
@@ -684,7 +684,7 @@ translate catalan turn_around_1_late_join_4576966f:
     # voice "audio/voices/ch1/woods/narrator/script_n_43.flac"
     # n "'Killing' is such gauche phrasing, and completely ignores the bigger picture. Your task is to {i}slay{/i} the Princess. Because she's terrible and she's really got it coming to her.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_43.flac"
-    n "«Matar» és un mot maldestre que deixa de banda el que és important. La teva tasca és {i}donar mort{/i} a la princesa. Perquè és una persona horrible i s'ho ben mereix"
+    n "«Matar» és un mot maldestre que deixa de banda el que és important. La teva tasca és {i}donar mort{/i} a la Princesa. Perquè és una persona horrible i s'ho ben mereix"
 
 # game/scripts/ch_1/script.rpy:1941
 translate catalan turn_around_1_late_join_f1b5c1c9:
@@ -692,7 +692,7 @@ translate catalan turn_around_1_late_join_f1b5c1c9:
     # voice "audio/voices/ch1/woods/narrator/script_n_44.flac"
     # n "When I said everyone, I meant {i}everyone{/i}. That's a pretty large group to just condemn to death over a single Princess.\n"
     voice "audio/voices/ch1/woods/narrator/script_n_44.flac"
-    n "Quan dic tothom, vull dir {i}tothom[/i]. Una quantitat prou gran de gent a condemnar a mort per una sola princesa.\n"
+    n "Quan dic tothom, vull dir {i}tothom[/i]. Una quantitat prou gran de gent a condemnar a mort per una sola Princesa.\n"
 
 # game/scripts/ch_1/script.rpy:1943
 translate catalan turn_around_1_late_join_00ed4889:
@@ -740,7 +740,7 @@ translate catalan turn_around_1_late_join_1834b578:
 translate catalan turn_around_1_late_join_0ff706df:
 
     # n "Oh, would you look at that! You're at the cabin again! Now, I'm not normally one for superstition or astrology, but I have to say, it seems like the Universe itself is doing its best to bring you to your fated confrontation with the Princess.\n"
-    n "Apa, ves per on! Tornes a ser a la cabanya! Ara, jo no solc ser pas gaire de supersticions o astrologia, però he de dir que sembla que el mateix univers intenti portar-te a la teva inevitable trobada amb la princesa.\n"
+    n "Apa, ves per on! Tornes a ser a la cabanya! Ara, jo no solc ser pas gaire de supersticions o astrologia, però he de dir que sembla que el mateix Univers intenti portar-te a la teva inevitable trobada amb la Princesa.\n"
 
 # game/scripts/ch_1/script.rpy:1989
 translate catalan turn_around_1_late_join_df38bbea:
@@ -1064,7 +1064,7 @@ translate catalan cabin_interrior_1_menu_fe9dea28:
 translate catalan cabin_interrior_1_menu_e4b136d5:
 
     # n "You take the blade from the table. It'd be rather difficult to slay the Princess and save the world without it.\n"
-    n "Prens la daga de la taula. Seria ben dificil donar mort a la princesa i salvar el món sense ella.\n"
+    n "Prens la daga de la taula. Seria ben dificil donar mort a la Princesa i salvar el món sense ella.\n"
 
 translate catalan strings:
 
@@ -1154,11 +1154,11 @@ translate catalan strings:
 
     # game/scripts/ch_1/script.rpy:1724
     old "{i}• Okay, fine. You're persistent. I'll go to the cabin and I'll slay the Princess. Ugh!{/i}"
-    new "{i}• Molt bé, d'acord. Ets persistent. Aniré a la cabanya i donaré mort a la princesa. Uf!{/i}"
+    new "{i}• Molt bé, d'acord. Ets persistent. Aniré a la cabanya i donaré mort a la Princesa. Uf!{/i}"
 
     # game/scripts/ch_1/script.rpy:1724
     old "{i}• Okay, fine. I'll go to the cabin and I'll talk to the Princess. Maybe I'll slay her. Maybe I won't. I guess we'll see.{/i}"
-    new "{i}• Molt bé, d'acord. Aniré a la cabanya i parlaré amb la princesa. Potser li donaré mort. Potser no. Ja veurem, suposo./i}"
+    new "{i}• Molt bé, d'acord. Aniré a la cabanya i parlaré amb la Princesa. Potser li donaré mort. Potser no. Ja veurem, suposo./i}"
 
     # game/scripts/ch_1/script.rpy:1724
     old "{i}• (Lie) Yes, I definitely know where I'm going.{/i}"
