@@ -16,7 +16,7 @@ translate catalan strings:
 
     # game/screens.rpy:699
     old "Preferences"
-    new "Preferencies"
+    new "Preferències"
 
     # game/screens.rpy:701
     old "Subtitle Language"
@@ -448,11 +448,11 @@ translate catalan strings:
 
     # game/screens.rpy:2668
     old "Automatic saves"
-    new "Guardats automàtics"
+    new "Desats automàtics"
 
     # game/screens.rpy:2668
     old "Quick saves"
-    new "Guardats ràpids"
+    new "Desats ràpids"
 
     # game/screens.rpy:2710
     old "{#file_time}%A, %B %d %Y, %H:%M"
