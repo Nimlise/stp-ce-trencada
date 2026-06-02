@@ -16,7 +16,7 @@ translate catalan nightmare_encounter_start_37e501a6:
 translate catalan nightmare_encounter_start_721d6d3a:
 
     # paranoid "Heart. Lungs. Liver. Nerves. Heart. Lungs. Liver. Nerves.\n"
-    paranoid ""
+    paranoid "Cor. Pulmons. Fetge. Nervis. Cor. Pulmons. Fetge. Nervis.\n"
 
 # game/scripts/paths/nightmare/nightmare_1/nightmare_encounter.rpy:16
 translate catalan nightmare_encounter_start_766eefc2:
@@ -98,7 +98,7 @@ translate catalan nightmare_encounter_start_de36e255:
 translate catalan nightmare_encounter_start_faf4ec7f:
 
     # paranoid "Heart. Lungs. Liver. Nerves. Heart...\n"
-    paranoid ""
+    paranoid "Cor. Pulmons. Fetge. Nervis. Cor...\n"
 
 # game/scripts/paths/nightmare/nightmare_1/nightmare_encounter.rpy:42
 translate catalan nightmare_encounter_start_4f911b35:
@@ -244,7 +244,7 @@ translate catalan nightmare_encounter_menu_bd0d726a:
     # voice "audio/voices/ch2/nightmare/_encounter/paranoid/nm_loop_mucho.flac"
     # paranoid "HEART. LUNGS. LIVER. NERVES.\n"
     voice "audio/voices/ch2/nightmare/_encounter/paranoid/nm_loop_mucho.flac"
-    paranoid ""
+    paranoid "COR. PULMONS. FETGE. NERVIS.\n"
 
 # game/scripts/paths/nightmare/nightmare_1/nightmare_encounter.rpy:111
 translate catalan nightmare_encounter_menu_1264578c:
