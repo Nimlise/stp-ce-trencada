@@ -3398,11 +3398,11 @@ translate catalan strings:
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''I'm here to save you!''{/i}"
-    new "{i}•{/i}"
+    new "{i}• ''Vinc a salvar-te!''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• (Lie) ''I'm here to save you!''{/i}"
-    new "{i}• (Menteix) ''Vinc a salver-te!''{/i}"
+    new "{i}• (Mentint) ''Vinc a salvar-te!''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• ''Hey, I think I'm here to slay you?''{/i}"
@@ -3410,23 +3410,23 @@ translate catalan strings:
 
     # game/scripts/ch_1/basement_1_empty.rpy:26
     old "{i}• Continue down the stairs.{/i}"
-    new "{i}•{/i}"
+    new "{i}• Continua baixant les escales.{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:116
     old "{i}• ''Hold on. Let's talk a bit first...''{/i}"
-    new "{i}•{/i}"
+    new "{i}• ''Espera. Parlem una mica, primer...''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:116
     old "{i}• ''I'll see what I can do.'' [[Examine the chains.]{/i}"
-    new "{i}•{/i}"
+    new "{i}• ''Aviam què hi puc fer.'' [[Examina les cadenes]]{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''What's your name?''{/i}"
-    new "{i}•{/i}"
+    new "{i}• (Explora) ''Com et dius?''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''So is Princess your name?''{/i}"
-    new "{i}•{/i}"
+    new "{i}• (Explora) ''Llavors, et dius Princesa?''{/i}"
 
     # game/scripts/ch_1/basement_1_empty.rpy:137
     old "{i}• (Explore) ''I don't know anything about you. For all I know you're locked up down here for a reason.''{/i}"
